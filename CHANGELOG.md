@@ -1,6 +1,7 @@
 # Changelog
 
 ## 3.5.0
+- Public project name changed to **YouTube Music Toolkit** to better reflect the full feature set.
 - Restored configurable toggles on top of the stable 3.4 playback logic.
 - Added persistent toggles for compact layout, slim scrollbars, STOPS visibility, and promo hiding.
 - Kept Audio Only and Shuffle behavior from the stable playback baseline.
