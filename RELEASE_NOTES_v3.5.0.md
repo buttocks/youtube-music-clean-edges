@@ -1,6 +1,6 @@
-# YouTube Music Clean Edges v3.5.0
+# YouTube Music Toolkit v3.5.0
 
-First public-ready release.
+First public-ready release under the **YouTube Music Toolkit** name.
 
 Highlights:
 - Compact YouTube Music desktop layout
